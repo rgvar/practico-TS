@@ -1,3 +1,5 @@
 import { TestA } from "./modeloA/TestA";
+import { TestB } from "./modeloB/TestB";
 
-TestA.test();
+// TestA.test();
+TestB.test();

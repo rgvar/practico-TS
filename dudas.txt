@@ -1,0 +1,12 @@
+MODELO A
+
+
+MODELO B
+se puede usar un enum?
+constructor, van todos los atributos? cuándo no van? comprobar dato en constructor
+constructor Factura, llamar métodos de la clase en el mismo constructor
+
+el total final de factura se calcula cada vez que se pida el atributo??
+
+
+.includes()
